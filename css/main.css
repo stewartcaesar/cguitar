@@ -139,8 +139,8 @@ PAGE: ABOUT
 
 .profile-photo {
   display: block;
-  max-width: 20%;
-  margin: 0 auto 30px;
+  /*max-width: 20%;*/
+  margin: 0 auto;
   border-radius: 100%;
 }
 
@@ -149,10 +149,10 @@ PAGE: ABOUT
 /**********************************
 PAGE: CONTACT
 ***********************************/
-.contact photo {
+.contact-photo {
   display: block;
-  max-width: 20%;
-  margin: 0 auto 30px;
+  /*max-width: 20%;*/
+  margin: 0 auto;
   border-radius: 100%;}
 
 
@@ -226,17 +226,3 @@ nav a, nav a:visited {
 nav a.selected, nav a:hover {
   color: #32673f;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
