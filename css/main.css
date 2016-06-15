@@ -140,6 +140,7 @@ PAGE: ABOUT
 .profile-photo {
   display: block;
   /*max-width: 20%;*/
+  max-width:20%;
   margin: 0 auto;
   border-radius: 100%;
 }
@@ -152,8 +153,8 @@ PAGE: CONTACT
 .contact-photo {
   display: block;
   /*max-width: 20%;*/
-  margin: 0 auto;
-  border-radius: 100%;}
+  margin: 100% auto;
+  border-radius: 20%;}
 
 
 .contact-info {
@@ -198,23 +199,23 @@ body {
 
 /* green header */
 header {
-  background: #6ab47b;
-  border-color: #599a68;
+  background: #030102;
+  border-color: #636E6A;
 }
 
 /* nav background on mobile */
 nav {
-  background: #darkblue;
+  background: #A80C0C;
 }
 
 /* logo text */
 h1, h2 {
-  color: #fff;
+  color: #A80C0C;
 }
 
 /* links */
 a {
-  color: #6ab47b;
+  color: #636E6A;
 }
 
 /* nav link */
