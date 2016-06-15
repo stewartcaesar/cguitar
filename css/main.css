@@ -139,7 +139,7 @@ PAGE: ABOUT
 
 .profile-photo {
   display: block;
-  max-width: 40%;
+  max-width: 20%;
   margin: 0 auto 30px;
   border-radius: 100%;
 }
@@ -149,6 +149,12 @@ PAGE: ABOUT
 /**********************************
 PAGE: CONTACT
 ***********************************/
+.contact photo {
+  display: block;
+  max-width: 20%;
+  margin: 0 auto 30px;
+  border-radius: 100%;}
+
 
 .contact-info {
   list-style: none;
